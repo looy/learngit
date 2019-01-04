@@ -7,5 +7,6 @@ Git tracks changes of files.
 stage2 banch
 create banch
 
-
 my change operation of push & pull
+push & pull
+
